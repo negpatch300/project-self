@@ -1,3 +1,5 @@
+# forgot to add invariants
+
 Structure Map = Grammar  
 Canonical = Sentence type A (Action grammar)  
 PS Phases = Sentence type B (Process grammar)  
